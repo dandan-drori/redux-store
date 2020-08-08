@@ -1,0 +1,39 @@
+{
+	"products": [
+		{
+			"name": "somerandomname",
+			"price": "33.99",
+			"category": "shoes",
+			"quantity": 0,
+			"imgURL": "https://placehold.it/300x150/000000/ffffff?text=test"
+		},
+		{
+			"name": "anothername",
+			"price": "44.90",
+			"category": "shirts",
+			"quantity": 0,
+			"imgURL": "https://placehold.it/300x150/000000/ffffff?text=test"
+		},
+		{
+			"name": "product",
+			"price": "29.99",
+			"category": "pants",
+			"quantity": 0,
+			"imgURL": "https://placehold.it/300x150/000000/ffffff?text=test"
+		},
+		{
+			"name": "item",
+			"price": "19.99",
+			"category": "socks",
+			"quantity": 0,
+			"imgURL": "https://placehold.it/300x150/000000/ffffff?text=test"
+		},
+		{
+			"name": "under",
+			"price": "9.99",
+			"category": "underwear",
+			"quantity": 0,
+			"imgURL": "https://placehold.it/300x150/000000/ffffff?text=test"
+		}
+	]
+}
